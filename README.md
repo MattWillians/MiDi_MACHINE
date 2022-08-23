@@ -6,5 +6,5 @@ A MiDi Machine, made with HTML, CSS and JAVASCRIPT
 As proximas atualizações incluem:
 <ul>
 <li>Menu de instrumentos</li>
-<li>Configuração de toque autometico!</li>
+<li>Configuração de toque automatico!</li>
 </ul>
